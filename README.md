@@ -19,20 +19,31 @@ This project focuses on predicting flight delays in the United States domestic a
 
 ## Results
 
-Our preliminary results indicate promising performance in predicting flight delays using the selected machine learning model. For detailed analysis and visualizations, refer to the notebooks and results directory.
+- Our preliminary results indicate promising performance in predicting flight delays using the selected machine learning model.
 
--Using KNN
-![KNN_results](./images/SVMConfusionMatrix.png)
+### Using KNN
+![KNN_results](./images/KNNConfutionMatrtix.png) 
 
--Using SVM
-![SVM_Results](./images/KNNConfusionMatrix.png)
+- Accuracy: 0.8786
+- Precision: 0.5671
+- Recall: 0.7827
+- F1 Score: 0.6577
 
--Comparison between Models
+### Using SVM
+![SVM_Results](./images/SVMConfusionMatrix.png)
+
+- Accuracy: 0.9310
+- Precision: 0.7782
+- Recall: 0.7510
+- F1 Score: 0.7644
+
+
+
+### Comparison between Models
 ![Comparison](./images/comparison.png)
 
+- For detailed analysis and visualizations, refer to the notebook and results directory.
 
-
-or detailed analysis and visualizations, refer to the notebooks and results directory.
 ## Contributing
 
 Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
