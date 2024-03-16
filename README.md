@@ -3,7 +3,7 @@
 ## Overview
 
 This project focuses on predicting flight delays in the United States domestic air traffic system using machine learning techniques. Leveraging a dataset from the Bureau of Transportation Statistics for the year 2020, we aim to develop a predictive model that can anticipate flight delays with high accuracy.
-Data Set - ttps://www.kaggle.com/datasets/divyansh22/february-flight-delay-prediction
+- Data Set - https://www.kaggle.com/datasets/divyansh22/february-flight-delay-prediction
 
 ## Usage
 
