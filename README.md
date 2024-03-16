@@ -8,7 +8,7 @@ This project focuses on predicting flight delays in the United States domestic a
 ## Usage
 
 1. Clone the repository:
-`git clone https://github.com/sahanrashmikaslk/ML-Project_Group99`
+`git clone https://github.com/sahanrashmikaslk/MachineLerning-FlightDelayPrediction`
 
 2. Install dependencies:
 `pip install -r requirements.txt`
