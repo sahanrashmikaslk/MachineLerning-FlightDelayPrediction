@@ -3,15 +3,7 @@
 ## Overview
 
 This project focuses on predicting flight delays in the United States domestic air traffic system using machine learning techniques. Leveraging a dataset from the Bureau of Transportation Statistics for the year 2020, we aim to develop a predictive model that can anticipate flight delays with high accuracy.
-https://www.kaggle.com/datasets/divyansh22/february-flight-delay-prediction
-## Project Structure
-
-- **data:** Contains the dataset used for training and testing the machine learning model.
-- **notebooks:** Jupyter notebooks used for data exploration, preprocessing, model training, and evaluation.
-- **src:** Source code files for implementing the machine learning model.
-- **docs:** Documentation files, including project report and presentation slides.
-- **results:** Visualization outputs, including graphs, charts, and performance metrics.
-- **requirements.txt:** List of required Python packages for running the project.
+Data Set - ttps://www.kaggle.com/datasets/divyansh22/february-flight-delay-prediction
 
 ## Usage
 
@@ -37,7 +29,3 @@ Contributions to this project are welcome! Feel free to fork the repository, mak
 
 - Sahan Lelwala
 - Dushmin Malisha
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
